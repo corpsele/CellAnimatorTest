@@ -9,11 +9,11 @@
 /* Begin PBXBuildFile section */
 		09A4AAE0F2EFDCECDFAA92C6EE1F1651 /* Pods-CellAnimatorTest_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C0AC8242AB0CD7B4E669A7509BFC3EF /* Pods-CellAnimatorTest_Tests-dummy.m */; };
 		5F62CBFABFAFFDD2D11403D168482CA4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
+		646EF8FF23013CEB0026868D /* CellAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646EF8FE23013CEB0026868D /* CellAnimator.swift */; };
 		64A17A7A705849FCDA1E5C039F1DDCA5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 		75AA9D02E31ECB2F1A8C4B6C02AFC818 /* CellAnimatorTest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FBE096CB3371AD471956824E823A099D /* CellAnimatorTest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8604927C61B754435BF496F88F4A1FF9 /* Pods-CellAnimatorTest_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 05D26C86C96CEA4650F5A08D89F8D6B7 /* Pods-CellAnimatorTest_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8D71245BB6BEFAD4867C3D068F002C9D /* CellAnimatorTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 43D03760E9AEA29A3D1773B42BF43FBF /* CellAnimatorTest-dummy.m */; };
-		E4E5EFEF81B1733E003926F704596606 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A93E2C439578A2683C92A446CA393A8 /* ReplaceMe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,23 +30,23 @@
 		013D9C704B603FF6BC050920391F8D28 /* Pods-CellAnimatorTest_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CellAnimatorTest_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		0206F61FD50496A8919C3EFA58A3FE2A /* Pods-CellAnimatorTest_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CellAnimatorTest_Tests-Info.plist"; sourceTree = "<group>"; };
 		05D26C86C96CEA4650F5A08D89F8D6B7 /* Pods-CellAnimatorTest_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CellAnimatorTest_Tests-umbrella.h"; sourceTree = "<group>"; };
-		06A967B4BEF8B2A88FEDB6848C181D5B /* CellAnimatorTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = CellAnimatorTest.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		0A93E2C439578A2683C92A446CA393A8 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = CellAnimatorTest/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		06A967B4BEF8B2A88FEDB6848C181D5B /* CellAnimatorTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = CellAnimatorTest.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		0E4005558536A69AB4D4065AD310FA21 /* CellAnimatorTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CellAnimatorTest-prefix.pch"; sourceTree = "<group>"; };
 		23BCEB24542D54155FE0C0B3CB9F0E41 /* Pods-CellAnimatorTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CellAnimatorTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		2C0FCCFD5F4F23E34C99E9353205FE52 /* Pods-CellAnimatorTest_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CellAnimatorTest_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		43D03760E9AEA29A3D1773B42BF43FBF /* CellAnimatorTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CellAnimatorTest-dummy.m"; sourceTree = "<group>"; };
 		52B4F7B99BD8E67ACE0A3DA54E784CBF /* CellAnimatorTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CellAnimatorTest.xcconfig; sourceTree = "<group>"; };
 		608E2899F4D6BCD4F7EA411185027656 /* Pods-CellAnimatorTest_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CellAnimatorTest_Tests.modulemap"; sourceTree = "<group>"; };
+		646EF8FE23013CEB0026868D /* CellAnimator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CellAnimator.swift; path = CellAnimatorTest/Classes/CellAnimator.swift; sourceTree = "<group>"; };
 		71DAB1EB6B2D9C1A52475AFA6C145485 /* CellAnimatorTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CellAnimatorTest.modulemap; sourceTree = "<group>"; };
-		75007B73D9B7495DAB5EB83081F6B4DB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		75007B73D9B7495DAB5EB83081F6B4DB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		796E8ADF8AB5F2C59BF1D775A5D71590 /* Pods-CellAnimatorTest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CellAnimatorTest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		7B071B74766418C973CEC6E6BEFF42D7 /* CellAnimatorTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CellAnimatorTest.framework; path = CellAnimatorTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B071B74766418C973CEC6E6BEFF42D7 /* CellAnimatorTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CellAnimatorTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		941FEF35369441E3501D41A0F0FCD161 /* Pods-CellAnimatorTest_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CellAnimatorTest_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		9C0AC8242AB0CD7B4E669A7509BFC3EF /* Pods-CellAnimatorTest_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CellAnimatorTest_Tests-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A5CAB39EB04BE24FA5BE05DFB9455EAE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		AF083EF877F65B01E7D59D9C4C5D4028 /* Pods_CellAnimatorTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CellAnimatorTest_Tests.framework; path = "Pods-CellAnimatorTest_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A5CAB39EB04BE24FA5BE05DFB9455EAE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AF083EF877F65B01E7D59D9C4C5D4028 /* Pods_CellAnimatorTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CellAnimatorTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		F187C95719B20614874D5AA65193D921 /* CellAnimatorTest-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CellAnimatorTest-Info.plist"; sourceTree = "<group>"; };
 		FBE096CB3371AD471956824E823A099D /* CellAnimatorTest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CellAnimatorTest-umbrella.h"; sourceTree = "<group>"; };
@@ -75,7 +75,7 @@
 		16DEA7C11F22355AE05E6BE25FCE4745 /* CellAnimatorTest */ = {
 			isa = PBXGroup;
 			children = (
-				0A93E2C439578A2683C92A446CA393A8 /* ReplaceMe.swift */,
+				646EF8FE23013CEB0026868D /* CellAnimator.swift */,
 				F89C25DA644F2831621B987CD7ED6D33 /* Pod */,
 				9FECFA067D2CD283821ADF2611F67C79 /* Support Files */,
 			);
@@ -243,12 +243,18 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					0EF487359BF092931602FC3BDE559108 = {
+						LastSwiftMigration = 1030;
+					};
+				};
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
@@ -292,8 +298,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				646EF8FF23013CEB0026868D /* CellAnimator.swift in Sources */,
 				8D71245BB6BEFAD4867C3D068F002C9D /* CellAnimatorTest-dummy.m in Sources */,
-				E4E5EFEF81B1733E003926F704596606 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +319,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 52B4F7B99BD8E67ACE0A3DA54E784CBF /* CellAnimatorTest.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -333,7 +340,8 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -475,6 +483,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 52B4F7B99BD8E67ACE0A3DA54E784CBF /* CellAnimatorTest.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -495,7 +504,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -556,8 +565,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
