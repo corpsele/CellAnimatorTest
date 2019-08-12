@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CellAnimatorTest_Tests' do
+  pod 'CellAnimatorTest', :path => '../'
+  
+  
+end

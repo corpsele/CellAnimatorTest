@@ -1,0 +1,16 @@
+PODS:
+  - CellAnimatorTest (0.1.0)
+
+DEPENDENCIES:
+  - CellAnimatorTest (from `../`)
+
+EXTERNAL SOURCES:
+  CellAnimatorTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CellAnimatorTest: 11be24e21e04412893cfe621fa7202964cd53976
+
+PODFILE CHECKSUM: 0f20093ab6a6f1e2cc88fc21ff5899606ea203f7
+
+COCOAPODS: 1.6.1

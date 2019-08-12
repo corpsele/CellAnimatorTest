@@ -1,0 +1,6 @@
+framework module CellAnimatorTest {
+  umbrella header "CellAnimatorTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
