@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'CellAnimatorTest/Classes/**/*'
   
+  s.swift_version = '5.0'
+  
   # s.resource_bundles = {
   #   'CellAnimatorTest' => ['CellAnimatorTest/Assets/*.png']
   # }
